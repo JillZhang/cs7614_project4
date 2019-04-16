@@ -1,3 +1,6 @@
+All code, environment and execution can be found in the following directory:
+https://github.com/JillZhang/cs7614_project4
+
 # CS-7641 Machine Learning Project 4 - Markov Decision Processes
 
 
@@ -129,4 +132,3 @@
     * The following code was developed solely by me:
 
         * ./setup.sh
-
