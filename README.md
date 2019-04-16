@@ -16,11 +16,9 @@
 
     * Host:
 
-        * Operating System:         Windows 10 Professional
-        * Motherboard:              ASUS ROG Maximus XI Hero (Intel Z390 Chipset)
-        * CPU:                      Intel Core-i7 9700k @3.6GHz (8 physical cores, 8 threads)
-        * RAM:                      32GB (4 x 8GB) DDR4 4133 (PC4 33000)
-        * Storage:                  2x Samsung 850 EVO 500GB (1TB total) SSDs in hardware RAID-0
+        * Operating System:         Windows 10 Home
+        * CPU:                      Intel Core-i7 inside
+        * RAM:                      16GB
 
     * Virtualization:
 
